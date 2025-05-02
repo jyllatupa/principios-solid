@@ -1,0 +1,16 @@
+Programación Orientado a Objetos:
+Es un modelo de programación que el software en torno a objetos, que combinan atributos y métodos.
+
+Los principios SOLID es un conjunto de cinco reglas de diseño de software orientado a objetos que promueve la creación de código limpio, mantenible y escalable.
+
+S: Single Responsibility Principle (Principio de Responsabilidad Única):
+Una clase debe tener una única responsabilidad, es decir, una única razón para cambiar. 
+O: Open/Closed Principle (Principio de Abierto/Cerrado):
+Las entidades de software (clases, métodos) deben estar abiertas a la extensión, pero cerradas a la modificación. Esto significa que se pueden agregar nuevas funcionalidades sin modificar el código existente. 
+L: Liskov Substitution Principle (Principio de Sustitución de Liskov):
+Las subclases deben ser sustituibles por sus clases base sin alterar la corrección del programa. Esto implica que cualquier objeto de una subclase debería poder ser usado en cualquier lugar donde se espera un objeto de la clase base sin problemas. 
+I: Interface Segregation Principle (Principio de Segregación de Interfaz):
+Se deben tener muchas interfaces específicas del cliente en lugar de una interfaz general. Esto evita que un cliente se vea obligado a implementar funciones que no necesita. 
+D: Dependency Inversion Principle (Principio de Inversión de Dependencia):
+Las clases de alto nivel no deben depender de las clases de bajo nivel, sino de abstracciones. Tanto las clases de alto nivel como las de bajo nivel deben depender de abstracciones. 
+En resumen, los principios SOLID ayudan a crear código más organizado, flexible y fácil de mantener al seguir estas buenas prácticas en el diseño de software. 

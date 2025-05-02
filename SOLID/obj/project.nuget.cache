@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "anTmY4wQzQc=",
+  "success": true,
+  "projectFilePath": "D:\\Proyectos\\ASP.NET\\1_Mis Proyectos\\11.Principios_SOLID\\SOLID\\SOLID\\SOLID.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chels\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\chels\\.nuget\\packages\\stripe.net\\48.1.0\\stripe.net.48.1.0.nupkg.sha512",
+    "C:\\Users\\chels\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\chels\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\chels\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
